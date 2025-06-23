@@ -1,0 +1,11 @@
+Pilot Overview: AI-Driven Manager HUB at Sam's Club
+Background
+Sam's Club is launching a pilot initiative to enhance how managers handle additional job transactions for associates. This pilot is part of a broader effort to integrate an AI-driven conversational experience into the Manager HUB, aiming to streamline and improve the transaction process.
+Ask
+We are seeking participation from selected Sam's Club stores to test this new functionality. Managers will use the enhanced Manager HUB to perform job transactions, providing feedback on usability and effectiveness.
+Goal
+The primary goal of the pilot is to evaluate the impact of the AI-driven Manager HUB on transaction efficiency and user satisfaction. Key metrics include:
+- Achieving a 60% shift in transaction volume from Workday to Me@ Manager Agent.
+- Measuring adoption rate based on usage and completion metrics.
+- Gathering user feedback on ease of use and time to complete transactions.
+- Reducing helpdesk tickets related to transaction issues.
